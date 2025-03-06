@@ -1,8 +1,8 @@
 import Link from "next/link"
-import { Clock, Mail, MapPin, Phone, FacebookIcon, InstagramIcon, MessageCircle } from "lucide-react"
+import { Clock, Mail, MapPin, Phone } from "lucide-react"
 import { FaFacebook, FaInstagram, FaWhatsapp } from "react-icons/fa";
 
-import { Button } from "@/components/ui/button"
+
 import { Card } from "@/components/ui/card"
 import CourseCard from "../components/course-card"
 import { courses } from "./data"
